@@ -3,7 +3,7 @@ Docker containers initialization:
 
 User (create)
 ![Captura de tela de 2025-02-16 18-18-45](https://github.com/user-attachments/assets/6c169d85-6683-4a79-8a88-2d0e6831958f)
-![Captura de tela de 2025-02-16 18-19-23](https://github.com/user-attachments/assets/ce9e56b8-8360-4858-a6d5-c069b8e4a29e)
+![Captura de tela de 2025-02-16 18-22-03](https://github.com/user-attachments/assets/b84a7da8-2cc1-4698-906d-9378ad2c1fd0)
 
 User (read)
 ![Captura de tela de 2025-02-16 18-23-14](https://github.com/user-attachments/assets/09b72d8b-7847-4ec1-9219-045b3d770d15)
@@ -11,7 +11,7 @@ User (read)
 
 Task (create)
 ![Captura de tela de 2025-02-16 18-19-53](https://github.com/user-attachments/assets/4326b336-a5eb-4e40-8bc7-884e2297a48d)
-![Captura de tela de 2025-02-16 18-20-03](https://github.com/user-attachments/assets/b347f6c9-bf9b-4fc3-979e-d999d2b4400a)
+![Captura de tela de 2025-02-16 18-41-36](https://github.com/user-attachments/assets/ddafa716-a78b-432d-a3c1-3390d76643cb)
 
 Task (read)
 ![Captura de tela de 2025-02-16 18-21-38](https://github.com/user-attachments/assets/962b9632-13ac-46ae-ad6f-fd64050054fd)
