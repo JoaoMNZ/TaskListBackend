@@ -14,7 +14,7 @@ Task (create)
 ![Captura de tela de 2025-02-16 18-41-36](https://github.com/user-attachments/assets/ddafa716-a78b-432d-a3c1-3390d76643cb)
 
 Task (read)
-![Captura de tela de 2025-02-16 18-21-38](https://github.com/user-attachments/assets/962b9632-13ac-46ae-ad6f-fd64050054fd)
+![Captura de tela de 2025-02-16 18-47-50](https://github.com/user-attachments/assets/49cf65d5-235e-4d75-bfa7-3d9a5bebb72b)
 
 Task (update)
 ![Captura de tela de 2025-02-16 18-20-37](https://github.com/user-attachments/assets/f415818e-022f-498d-9711-0e651707aee9)
@@ -24,5 +24,4 @@ Task (delete)
 ![Captura de tela de 2025-02-16 18-21-38](https://github.com/user-attachments/assets/5af68ddd-6fce-4bd4-b2b1-e2755aa3a822)
 ![Captura de tela de 2025-02-16 18-22-03](https://github.com/user-attachments/assets/efa936e3-b2df-416f-88d7-1c23a1fb14f7)
 
-
-I did not implement all the "CRUD" methods for the User class because in the context of my application it was not necessary, however it was implemented in the Task class and the logic used would be the same for User.
+I did not implement all the CRUD methods for the User class because in the context of my application it was not necessary, however it was implemented in the Task class and the logic used would be the same for User.
